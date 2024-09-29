@@ -8,4 +8,4 @@ This repository contains the implementation of the **second-order Runge-Kutta** 
 
 The following technology was used in this project:
 
-**GNU Octave:** An open-source alternative to MATLAB. You can run the code in Octave, which is available for free. Download GNU Octave from the following link:
+**GNU Octave:** An open-source alternative to MATLAB. You can run the code in Octave, which is available for free. Download GNU Octave from the following link: https://octave.org/download
